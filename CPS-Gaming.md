@@ -4,9 +4,9 @@
 essa taxa é utilizada para avaliar a agilidade e a velocidade de resposta do jogador durante interações rápidas e repetitivas.
 Conversa aberta. Uma mensagem não lida.
 
-## 🚀 Começando
+## 🚀 Projeto
 
-
+O CPS Gaming é um projeto focado em reunir jogadores em um ambiente organizado e competitivo. Com sistema de ranks, níveis e nicknames personalizados, oferecemos uma estrutura clara para quem gosta de disputar seu lugar no topo. Simples, objetivo e feito pra quem leva o game a sério.
 
 ## 🛠️ Construído com
  
@@ -20,7 +20,7 @@ Conversa aberta. Uma mensagem não lida.
 * Dev - [Raphael](https://github.com/Spaceza)
 
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+
 
 
 
