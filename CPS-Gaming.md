@@ -8,6 +8,10 @@ Conversa aberta. Uma mensagem não lida.
 
 O CPS Gaming é um projeto focado em reunir jogadores em um ambiente organizado e competitivo. Com sistema de ranks, níveis e nicknames personalizados, oferecemos uma estrutura clara para quem gosta de disputar seu lugar no topo. Simples, objetivo e feito pra quem leva o game a sério.
 
+## 📺 Preview 
+
+[preview](preview.png)
+
 ## 🛠️ Construído com
  
 * HTML5
