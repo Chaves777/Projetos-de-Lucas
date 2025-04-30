@@ -10,7 +10,7 @@ O CPS Gaming é um projeto focado em reunir jogadores em um ambiente organizado 
 
 ## 📺 Preview 
 
-[preview](preview.png)
+![preview](preview.png)
 
 ## 🛠️ Construído com
  
