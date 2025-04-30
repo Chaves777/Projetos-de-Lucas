@@ -17,8 +17,6 @@ Conversa aberta. Uma mensagem não lida.
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 * Dev - [Raphael](https://github.com/Spaceza)
 
 
