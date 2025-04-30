@@ -19,7 +19,7 @@ Conversa aberta. Uma mensagem não lida.
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* [Raphael](https://github.com/Spaceza)
+* Dev - [Raphael](https://github.com/Spaceza)
 
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
