@@ -6,24 +6,21 @@ Conversa aberta. Uma mensagem não lida.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+ 
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
 
 ## ✒️ Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* [Raphael](https://github.com/Spaceza)
+
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
