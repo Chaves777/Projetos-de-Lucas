@@ -15,7 +15,7 @@ Conversa aberta. Uma mensagem não lida.
 * JavaScript
 * Bootstrap
 
-## ✒️ Autores
+## ✒️ Colaboração
 
 * Dev - [Raphael](https://github.com/Spaceza)
 
