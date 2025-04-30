@@ -2,7 +2,7 @@
 
 🎮 CPS (Clicks Per Second) é a métrica que indica a quantidade de cliques realizados por segundo em um mouse. No contexto de jogos, 
 essa taxa é utilizada para avaliar a agilidade e a velocidade de resposta do jogador durante interações rápidas e repetitivas.
-Conversa aberta. Uma mensagem não lida.
+
 
 ## 🚀 Projeto
 
